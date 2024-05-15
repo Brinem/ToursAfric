@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "499267644785",
+    "project_id": "toursafric-7d178",
+    "storage_bucket": "toursafric-7d178.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499267644785:android:9290d6be37767d5fff5ad0",
+        "android_client_info": {
+          "package_name": "com.cuin.toursafric"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClQsbpGFFJVTtrWO7UiIsXz9_DBQ-u5gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
